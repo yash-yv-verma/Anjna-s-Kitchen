@@ -7,4 +7,5 @@ Business:
   - Her business currently operates manually: recieving orders, disbursing menu, getting feedback, and etc.
 
 Business Problem:
-  - The business is currently manual.
+  - The business is currently operating manually from things like taking in orders to receiving payment.
+  - 
